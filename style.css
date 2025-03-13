@@ -1,18 +1,33 @@
 body{
-    background-color: rgba(240, 248, 255, 0.667);
+    background-color: rgba(0, 82, 154, 0.667);
+    font-family:"Doto", sans-serif;
+    text-align: center;
+    margin-left:40px;
+    margin: right 40px;
 }
 
 p{
     font-family: 'Courier New', Courier, monospace;
     font-weight: bold;
+    font-family:"Doto", sans-serif;
 }
 
 ul{
     font-family: 'Courier New', Courier, monospace;
     font-weight:bold;
+    font-family:"Doto", sans-serif;
 }
 
 h3{
     font-family:'Courier New', Courier, monospace;
     font-weight:bold;
+    font-family:"Doto", sans-serif;
+    text-decoration:underline
 }
+
+h1{
+    color:darkgreen;
+    text-decoration: underline overline;
+    font-family:"Doto", sans-serif;
+}
+
